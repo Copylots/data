@@ -1,0 +1,8 @@
+{
+  "name": "Formulir Data",
+  "description": "Aplikasi isian data lengkap dengan login dan ekspor PDF/Excel untuk Android 12+",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
